@@ -3,6 +3,9 @@ api: [4.0.0]
 version: 0.1
 main: Thaili\Main
 author: Thaili
+description: "§4Use a special item so that when using the click ofUse a special item so that when using the click of a command is executed"
+
+
 
 commands:
   rankitem:
