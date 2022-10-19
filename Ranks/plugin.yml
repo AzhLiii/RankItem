@@ -1,0 +1,15 @@
+name: RanksItems
+api: [4.0.0]
+version: 0.1
+main: Thaili\Main
+author: Thaili
+
+commands:
+  rankitem:
+    description: "§3Help RankItem"
+    permission: rank.item.give
+  
+permissions: 
+  rank.item.give:
+    default: op
+    description: xd

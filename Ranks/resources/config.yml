@@ -1,0 +1,17 @@
+#Here You Will Be Able To Configure Things Of The Item There Are 3 Items You Can Choose Its Name The Item And Its Lore To Be Able To Operate The Item As Well As The Commands!
+#(player) Select the Player
+#For the colors use "§"
+
+#Item Commands
+
+rank-king: "op "
+
+rank-supreme: "ban "
+
+rank-zaphire: "xd 
+
+#items
+
+rank.item.1: "§6§lKing §aRank §77d"
+
+rank1.command: "ranks setrank {playerName} Owner 7d"
